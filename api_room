@@ -18,7 +18,7 @@
         "time_start": "13:00",
         "time_end": "15:30",
         "time_extend": "0:00",
-        "money_per_minute": 30000
+        "money_per_minute": 30000,
         "money_paid": 120000
       }
     ]
