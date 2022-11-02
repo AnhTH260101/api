@@ -1,0 +1,290 @@
+[
+  {
+    "room_number": "A 1",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 175831,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 128548,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "A 2",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 12534815,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 183458145,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "A 3",
+    "status": "in user",
+    "list_book_room": [
+      {
+        "card_id": 1458143,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 1278436194,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "A 4",
+    "status": "extend",
+    "list_book_room": [
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:30",
+        "money_per_minute": 30000,
+        "money_paid": 150000
+      },
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "B 1",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 175831,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 128548,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "B 2",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 12534815,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 183458145,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "B 3",
+    "status": "in user",
+    "list_book_room": [
+      {
+        "card_id": 1458143,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 1278436194,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "B 4",
+    "status": "extend",
+    "list_book_room": [
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:30",
+        "money_per_minute": 30000,
+        "money_paid": 150000
+      },
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "C 1",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 175831,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 128548,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "C 2",
+    "status": "avalable",
+    "list_book_room": [
+      {
+        "card_id": 12534815,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 183458145,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "C 3",
+    "status": "in user",
+    "list_book_room": [
+      {
+        "card_id": 1458143,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      },
+      {
+        "card_id": 1278436194,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  },
+  {
+    "room_number": "C 4",
+    "status": "extend",
+    "list_book_room": [
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "10:00",
+        "time_end": "12:30",
+        "time_extend": "0:30",
+        "money_per_minute": 30000,
+        "money_paid": 150000
+      },
+      {
+        "card_id": 123456,
+        "date": "20/12/2021",
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "time_extend": "0:00",
+        "money_per_minute": 30000,
+        "money_paid": 120000
+      }
+    ]
+  }
+]
