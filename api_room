@@ -1,7 +1,7 @@
 [
   {
     "room_number": "A 1",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 175831,
@@ -18,14 +18,14 @@
         "time_start": "13:00",
         "time_end": "15:30",
         "time_extend": "0:00",
-        "money_per_minute": 30000,
+        "money_per_minute": 30000
         "money_paid": 120000
       }
     ]
   },
   {
     "room_number": "A 2",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 12534815,
@@ -97,7 +97,7 @@
   },
   {
     "room_number": "B 1",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 175831,
@@ -121,7 +121,7 @@
   },
   {
     "room_number": "B 2",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 12534815,
@@ -193,7 +193,7 @@
   },
   {
     "room_number": "C 1",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 175831,
@@ -217,7 +217,7 @@
   },
   {
     "room_number": "C 2",
-    "status": "avalable",
+    "status": "available",
     "list_book_room": [
       {
         "card_id": 12534815,
