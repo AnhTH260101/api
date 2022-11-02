@@ -200,7 +200,7 @@
         "date": "20/12/2021",
         "time_start": "10:00",
         "time_end": "12:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       },
@@ -209,7 +209,7 @@
         "date": "20/12/2021",
         "time_start": "13:00",
         "time_end": "15:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       }
@@ -224,7 +224,7 @@
         "date": "20/12/2021",
         "time_start": "10:00",
         "time_end": "12:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       },
@@ -233,7 +233,7 @@
         "date": "20/12/2021",
         "time_start": "13:00",
         "time_end": "15:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       }
@@ -248,7 +248,7 @@
         "date": "20/12/2021",
         "time_start": "10:00",
         "time_end": "12:30",
-        "time_extend": "0:00",
+        "time_extend": "3:00",
         "money_per_minute": 30000,
         "money_paid": 120000
       },
@@ -257,7 +257,7 @@
         "date": "20/12/2021",
         "time_start": "13:00",
         "time_end": "15:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       }
@@ -281,7 +281,7 @@
         "date": "20/12/2021",
         "time_start": "13:00",
         "time_end": "15:30",
-        "time_extend": "0:00",
+        "time_extend": "0:30",
         "money_per_minute": 30000,
         "money_paid": 120000
       }
