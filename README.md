@@ -18,13 +18,13 @@
   "users": [
     {
       "name": "Báo Flutter",
-      "job": "Software Engineer",
-      "website": "baoflutter.com"
+      "job": "Software Engineer 1",
+      "website": "baoso1flutter.com"
     },
     {
       "name": "Thành Công",
-      "job": "Software Engineer",
-      "website": "baoflutter.com"
+      "job": "Software Engineer 2",
+      "website": "baoso2flutter.com"
     }
  
   ]
