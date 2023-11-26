@@ -1,0 +1,66 @@
+[{
+  "id": 1,
+  "productType": "White Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": 2,
+  "productType": "Snowflake Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": 3,
+  "productType": "Reishi Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": 4,
+  "productType": "Pink Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": 5,
+  "productType": "Pheonix Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": 6,
+  "productType": "Milky Coffee Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+}]
