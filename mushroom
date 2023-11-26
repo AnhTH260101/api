@@ -63,4 +63,70 @@
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "85.0 - 95.0",
   "status": "Shipped to customer"
+},
+{
+  "id": "03556978557",
+  "productType": "Lion's Mane Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": "03556978558",
+  "productType": "Golden Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": "03556978559",
+  "productType": "Chestnut Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": "035569785510",
+  "productType": "Pearl Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": "035569785511",
+  "productType": "Black Pearl Oyster Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
+},
+{
+  "id": "035569785512",
+  "productType": "Blue Shimeji Mushrooms",
+  "information": "Made in Australia from 100% Australian Natural Ingredients",
+  "productionDate": "2023-11-10T07:23:57.000Z",
+  "expiryDate": "2023-11-10T07:23:57.000Z",
+  "wholesaleDate": "2023-11-10T07:23:57.000Z",
+  "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
+  "humidity": "85.0 - 95.0",
+  "status": "Shipped to customer"
 }]
