@@ -6,7 +6,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "75.0 - 95.0",
   "status": "Shipped to customer"
 },
 {
@@ -17,7 +17,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "88.0 - 95.0",
   "status": "Shipped to customer"
 },
 {
@@ -28,7 +28,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "70.0 - 95.0",
   "status": "Shipped to customer"
 },
 {
@@ -39,7 +39,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "60.0 - 70.0",
   "status": "Shipped to customer"
 },
 {
@@ -50,7 +50,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "78.0 - 99.0",
   "status": "Shipped to customer"
 },
 {
@@ -61,7 +61,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "87.0 - 99.0",
   "status": "Shipped to customer"
 },
 {
@@ -72,7 +72,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "58.0 - 63.0",
   "status": "Shipped to customer"
 },
 {
@@ -83,7 +83,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "85.0 - 99.0",
   "status": "Shipped to customer"
 },
 {
@@ -105,7 +105,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "80.0 - 95.0",
   "status": "Shipped to customer"
 },
 {
@@ -116,7 +116,7 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "70.0 - 95.0",
   "status": "Shipped to customer"
 },
 {
@@ -127,6 +127,6 @@
   "expiryDate": "2023-11-10T07:23:57.000Z",
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
-  "humidity": "85.0 - 95.0",
+  "humidity": "79.0 - 95.0",
   "status": "Shipped to customer"
 }]
