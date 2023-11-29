@@ -7,7 +7,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "75.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Factory"
 },
 {
   "id": "03556978552",
@@ -18,7 +18,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "88.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Agency"
 },
 {
   "id": "03556978553",
@@ -29,7 +29,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "70.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 },
 {
   "id": "03556978554",
@@ -40,7 +40,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "70.0 - 90.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 },
 {
   "id": "03556978555",
@@ -51,7 +51,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "78.0 - 99.0",
-  "status": "Shipped to customer"
+  "status": "Factory"
 },
 {
   "id": "03556978556",
@@ -62,7 +62,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "87.0 - 99.0",
-  "status": "Shipped to customer"
+  "status": "Agency"
 },
 {
   "id": "03556978557",
@@ -73,7 +73,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "58.0 - 63.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 },
 {
   "id": "03556978558",
@@ -84,7 +84,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "85.0 - 99.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 },
 {
   "id": "03556978559",
@@ -95,7 +95,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "85.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Factory"
 },
 {
   "id": "035569785510",
@@ -106,7 +106,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "80.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Angery"
 },
 {
   "id": "035569785511",
@@ -117,7 +117,7 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "70.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 },
 {
   "id": "035569785512",
@@ -128,5 +128,5 @@
   "wholesaleDate": "2023-11-10T07:23:57.000Z",
   "soldToCustomerDate": "2023-11-10T07:23:57.000Z",
   "humidity": "79.0 - 95.0",
-  "status": "Shipped to customer"
+  "status": "Sold to end users"
 }]
